@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341188639226",
+    "project_id": "spend-tracker-8a7f1",
+    "storage_bucket": "spend-tracker-8a7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341188639226:android:624fe06b62fca482994c43",
+        "android_client_info": {
+          "package_name": "tracker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341188639226-4ov71djjojkk9qom0n4rjkbl526ckj7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tracker.app",
+            "certificate_hash": "1b33ff3fb8aad1d00b67aa2a671ddab479992379"
+          }
+        },
+        {
+          "client_id": "341188639226-hdi9b4el21db3dnvugiao9biue39bckm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYa0ANoFPkW6Lm2NRLASgBkVk-sYeGao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341188639226-hdi9b4el21db3dnvugiao9biue39bckm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
